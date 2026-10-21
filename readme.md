@@ -14,7 +14,7 @@ Proyecto correspondiente a la **Actividad N° 8** de la asignatura **Laboratorio
 * **Institución:** E.E.S.T. N° 1 "Eduardo Ader" — Vicente López
 * **Curso:** 5° Año 3° División (Grupos A-B)
 * **Materia:** Laboratorio de Programación (LPR)
-* **Profesor:** Mansilla Muñoz York Elías (`@docentedeclasesdeapoyo`)
+* **Profesor:** Ganduglia Yamil y Mansilla Muñoz York Elías
 * **Ciclo Lectivo:** 2026 — 2° Cuatrimestre
 
 ---
